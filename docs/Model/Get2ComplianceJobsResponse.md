@@ -1,0 +1,11 @@
+# Get2ComplianceJobsResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**data** | [**\Swagger\Client\Model\ComplianceJob[]**](ComplianceJob.md) |  | [optional] 
+**errors** | [**\Swagger\Client\Model\Problem[]**](Problem.md) |  | [optional] 
+**meta** | [**\Swagger\Client\Model\Get2ComplianceJobsResponseMeta**](Get2ComplianceJobsResponseMeta.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
